@@ -1,8 +1,5 @@
 package com.example.uts_yoga.manajemen_keuangan.;
 
-/**
- * Created by Malak Diana Dewi on 10/12/2018.
- */
 
 import android.content.Intent;
 import android.support.v7.widget.RecyclerView;

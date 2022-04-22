@@ -9,7 +9,6 @@ import android.view.WindowManager;
 
 
 
-//Created by Fathur (okedroid.com)
 public class SplashScreen extends AppCompatActivity {
 
     //Set waktu lama splashscreen
