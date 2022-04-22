@@ -1,8 +1,5 @@
-package com.example.malakdianadewi.moneymanager;
+package com.example.uts_yoga.manajemen_keuangan.;
 
-/**
- * Created by Malak Diana Dewi on 05/12/2018.
- */
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;

@@ -1,4 +1,4 @@
-package com.example.malakdianadewi.moneymanager;
+package com.example.uts_yoga.manajemen_keuangan.;
 
 import android.content.Context;
 import android.content.Intent;
